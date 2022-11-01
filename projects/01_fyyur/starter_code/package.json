@@ -1,7 +1,7 @@
 {
-  "name": "starter_code",
+  "name": "Fyyur",
   "version": "1.0.0",
-  "description": "Fyyur -----",
+  "description": "Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
